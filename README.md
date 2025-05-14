@@ -1,53 +1,54 @@
+
 # 🚀 Andromeda NFT App
 
 ## 📝 Project Title
 Andromeda NFT App
 
 ## 📌 Project Description
-Bu proje, Next.js tabanlı bir NFT uygulaması altyapısıdır. Kullanıcıların dijital varlıkları keşfedebileceği, etkileşime geçebileceği ve gelecekte mint edebileceği bir platform oluşturmak amaçlanmıştır.
+This project is an NFT application infrastructure built with Next.js. It aims to create a platform where users can explore digital assets, interact with them, and in the future, mint their own NFTs.
 
 ## ✨ Key Features
-- Next.js ile hızlı ve modern frontend yapısı
-- TypeScript desteğiyle güçlü tip kontrolü
-- Dosya bazlı routing sistemi
-- Dizinler arası sade ve anlaşılır yapı
-- Mobil uyumlu başlangıç tasarımı
+- Fast and modern frontend powered by Next.js  
+- Strong type safety with TypeScript support  
+- File-based routing system  
+- Clean and easy-to-navigate directory structure  
+- Mobile-friendly initial design  
 
 ## ➕ Additional Features
-- Tailwind CSS ile responsive arayüz desteği
-- Hazır ortam değişkeni (.env) altyapısı
-- SEO ve performans için Next.js optimizasyonları
-- Proje klasörlerinin modüler olarak ayrılması
+- Responsive UI with Tailwind CSS  
+- Built-in environment variable (.env) support  
+- Next.js optimizations for SEO and performance  
+- Modular separation of project folders  
 
 ## 🔗 Embeddable Links
 > https://embeddables.andromedaprotocol.io/andromeda-1/Andromeda-app
 
 ## 🚧 Future Scope
-- Web3 entegrasyonu (MetaMask ile cüzdan bağlantısı)
-- Akıllı kontrat ile NFT mint etme işlemleri
-- IPFS entegrasyonu ile medya depolama
-- Kullanıcı profilleri ve NFT geçmişi sayfaları
-- Admin paneli ile içerik yönetimi
+- Web3 integration (wallet connection via MetaMask)  
+- NFT minting functionality with smart contracts  
+- IPFS integration for decentralized media storage  
+- User profiles and NFT history pages  
+- Admin panel for content management  
 
 ## 🛠️ Project Setup / Installation Guide
 
 ```bash
-# 1. Depoyu klonla
+# 1. Clone the repository
 git clone https://github.com/cetinnyigit/Andromeda-NFT-App.git
 
-# 2. Proje klasörüne gir
+# 2. Navigate into the project directory
 cd Andromeda-NFT-App
 
-# 3. Bağımlılıkları yükle
+# 3. Install dependencies
 npm install
-# veya
+# or
 yarn install
 
-# 4. Geliştirme sunucusunu başlat
+# 4. Start the development server
 npm run dev
-# veya
+# or
 yarn dev
 
-# 5. Tarayıcıda aç
-    http://localhost:3000
-
+# 5. Open in your browser
+http://localhost:3000
+```
